@@ -1,2 +1,2 @@
-# An-DQN-Method-for-Restricted-Unrelated-Parallel-Machine-Scheduling-of-Mass-Customization-in-SMF
+# An Improved DQN-based Method on Restricted Unrelated Parallel Machine Scheduling for Mass Customization in Smart Manufacturing Factory
 The code and data will coming soon...
